@@ -1,0 +1,4 @@
+*   Trying 127.0.0.1:666...
+* connect to 127.0.0.1 port 666 failed: Connection refused
+* Failed to connect to 127.0.0.1 port 666 after 0 ms: Couldn't connect to server
+* Closing connection 0
